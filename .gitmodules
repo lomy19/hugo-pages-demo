@@ -1,0 +1,6 @@
+[submodule "monsite/monsite/themes/ananke"]
+	path = monsite/monsite/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke
+[submodule "monsite/themes/ananke"]
+	path = monsite/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke
